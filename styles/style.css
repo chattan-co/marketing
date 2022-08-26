@@ -90,13 +90,16 @@ body {
   transition: all 0.3s ease-in-out;
 }
 
-/* .services-section {
-  display: flex;
+.services-section {
   width: 100%;
   height: 15%;
   padding: 5%;
+
+  display: flex;
   justify-content: center;
   align-items: center;
+  text-align: center;
+  
   background-color: rgb(13, 13, 48);
 }
 
@@ -104,4 +107,4 @@ body {
   font-style: italic;
   font-size: 18px;
   color: white;
-} */
+}
